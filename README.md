@@ -1,2 +1,2 @@
 # CSSFlex
-This repo contins all all flex codes.
+This repo contins all my  css flex codes.
