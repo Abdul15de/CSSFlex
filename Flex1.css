@@ -1,0 +1,34 @@
+.container
+{
+    height: 500px;
+    border: 2px solid green;
+    display: flex;
+  width: 400px;
+    background-color: aqua
+    /* flex-direction: column /* changing axis fro row to column */;
+   
+    /* flex wrap wrap maintains wigth and height of items according to parent's height and width; */
+    
+    /* flex-flow: row wrap; short hand for wrap and diretion of flex */
+
+    /*     
+    justify-content: center;
+    justify-content: end;
+    justify-content: start;
+    justify-content: right;
+    justify-content: space-around; */
+   
+    
+  
+   
+
+
+
+
+}
+.box
+{
+    border: 1px solid brown;
+   
+
+}
